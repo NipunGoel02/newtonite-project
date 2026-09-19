@@ -54,5 +54,3 @@ CodeBuild
 Frontend → S3/CloudFront
 Backend → EC2
 ```
-
-Sensitive values such as database credentials are stored as environment variables/secrets and are never committed to GitHub.
